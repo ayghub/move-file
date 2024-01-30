@@ -1,5 +1,5 @@
 local utils = require "mp.utils"
-dst = [[/home/mrvf/some]]
+dst = [[/dstpath]] --change me
 
 function log(level,string,secs)
 	secs = secs or 2.5
